@@ -6,5 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dan Puttick",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
 }
